@@ -1,4 +1,4 @@
-# Image-Modeling-with-Keras-in-Python
+# Image-Modeling-with-Keras
 Through the immersive four-hour course, I've gained expertise in utilizing Convolutional Neural Networks (CNNs) in Python for image processing. The journey commenced by understanding how images can be interpreted as data and leveraging Keras to train neural networks for object classification. Subsequently, I delved into the fundamentals of convolutions, a key aspect of CNNs, and learned to train and fine-tune Keras CNNs using test data. 
 
 As the course progressed, I acquired the skills to construct and evaluate deep learning networks. The culmination involved mastering different methods to assess CNN performance, allowing me to build Keras neural networks, optimize them, and visualize their responses across various applications. This practical knowledge not only enhanced my Python proficiency but also highlighted the substantial impact of CNNs in fields like e-commerce and cancer research.
